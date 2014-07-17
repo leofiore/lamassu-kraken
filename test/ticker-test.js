@@ -7,7 +7,6 @@ test('Read ticker', function(t){
   Ticker.ticker(['EUR', 'USD'], function(err, results) {
     t.plan(5*2+1);
     t.equal(err, null, 'There should be no error');
-    console.log(results);
     for (var currency in results) {
       var result = results[currency];
       t.notEqual(result, null, 'There should be a result');
