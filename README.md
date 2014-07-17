@@ -7,7 +7,7 @@ Based on [lamassu-bitstamp][lb].
 
 ## Status
 
-[![NPM](https://nodei.co/npm/kraken.png)](https://nodei.co/npm/lamassu-kraken/)
+[![NPM](https://nodei.co/npm/lamassu-kraken.png)](https://nodei.co/npm/lamassu-kraken/)
 
 [![Build Status](https://travis-ci.org/imrehg/lamassu-kraken.svg?branch=master)](https://travis-ci.org/imrehg/lamassu-kraken)
 
