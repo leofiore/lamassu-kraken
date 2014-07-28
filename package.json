@@ -24,6 +24,7 @@
     "tap": "~0.4.11"
   },
   "dependencies": {
+    "kraken-api": "^0.1.5",
     "request": "^2.37.0"
   }
 }
