@@ -1,7 +1,7 @@
 # lamassu-kraken
 
 Plugin to support [Kraken][kraken] within the Lamassu Bitcoin ATM,
-implementing the Bitcoin price ticker.
+implementing the Bitcoin price ticker and trader.
 
 Based on [lamassu-bitstamp][lb].
 
