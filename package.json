@@ -1,6 +1,6 @@
 {
   "name": "lamassu-kraken",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Lamassu Kraken ticker and trader",
   "main": "lib/index.js",
   "scripts": {
